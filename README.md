@@ -11,7 +11,6 @@
 *ensures a filename is sanitized*
 
 	cd detox && ./install.sh
-
-**USAGE: detox -h**
+	detox -h
 
 
